@@ -8,8 +8,8 @@
 
 <table>
 <tr>
-<td><img src="sc/sc\_1.png" alt="Weather App Screenshot 1" width="400"></td>
-<td><img src="sc/sc\_2.png" alt="Weather App Screenshot 2" width="400"></td>
+<td><img src="sc/sc_1.png" alt="Weather App Screenshot 1" width="400"></td>
+<td><img src="sc/sc_2.png" alt="Weather App Screenshot 2" width="400"></td>
 </tr>
 </table>
 
