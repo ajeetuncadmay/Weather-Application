@@ -1,13 +1,5 @@
 # 🌤️ Weather Application
 
-<div align="center">
-
-[!\[Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
-\[!\[Status](https://img.shields.io/badge/status-active-success.svg)]()
-\[!\[Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
-
-
-
 *A modern, user-friendly weather application built with Python and Tkinter that provides real-time weather information for any city worldwide.*
 
 
@@ -69,7 +61,7 @@
 1. **Clone the Repository**
 
 ```bash
-   git clone https://github.com/sabbirahmad12/weather-application.git
+   git clone https://github.com/ajeetuncadmay/weather-application.git
    cd weather-application
    ```
 
@@ -160,7 +152,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 \---
 
 <div align="center">
-  <sub>Built with ❤️ by Md Sabbir Ahmad</sub><br>
+  <sub>Built with ❤️ by Ajeet Singh </sub><br>
   <sub>Copyright © 2026 Weather Application</sub>
 </div> 
 
